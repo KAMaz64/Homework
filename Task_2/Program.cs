@@ -18,7 +18,7 @@ else
 {
     if (a==b)
     {
-        Console.WriteLine($"max не существует, введенные числа равны");
+        Console.WriteLine($"введенные числа равны");
     }
     else
     {
